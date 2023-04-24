@@ -8,7 +8,7 @@
     <img src={middleLogo} alt="Page Logo" class="mx-auto" />
     <h2 class="presents uppercase text-white mt-1 mx-auto">Presents</h2>
     <img src={FlipFrenzy} alt="Flip Frenzy" class="mx-auto w-64 md:w-96 mt-2" />
-    <img src={MiddlePlus} alt="Plus Sign Dot" class="mx-auto w-32 mt-8 md:mt-12" />
+    <a href="/play"><img src={MiddlePlus} alt="Plus Sign Dot" class="mx-auto w-32 mt-8 md:mt-12" /></a>
 </div>
 
 <style>

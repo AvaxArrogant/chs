@@ -28,7 +28,7 @@
     <img src={navLogo} alt="Logo" />
   </div>
   <div>
-    <img src={RoundPlus} alt="Logo" class="w-16" />
+    <a href="/play"><img src={RoundPlus} alt="Logo" class="w-16" /></a>
   </div>
   <div>
     {#if !$connected}
